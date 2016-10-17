@@ -1,0 +1,1 @@
+wsimport -s . -Xnocompile http://localhost:9999/ws/EmployeeQuery?wsdl
